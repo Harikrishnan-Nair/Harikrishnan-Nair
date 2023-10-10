@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hari_nair_26" target="blank"><img src="https://img.shields.io/twitter/follow/hari_nair_26?logo=twitter&style=for-the-badge" alt="hari_nair_26" /></a> </p>
 
-- 🔭 I’m currently working on **ATM transaction analysis project**
+- 🔭 I’m currently working on **Sales and RFM Analysis**
 
 - 🌱 I’m currently learning **Python, SQL, Machine learning**
 
