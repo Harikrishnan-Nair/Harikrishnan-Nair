@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harikrishnan</h1>
-<h3 align="center">An aspiring data analyst from Mumbai, India</h3>
+<h3 align="center">Data analyst from Mumbai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan-nair&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan-nair" /> </p>
 
