@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me abouts **Data science, EDA, Power BI, Data analysis, supply chain, ERP**
+- 💬 Ask me abouts **Data science, Power BI, Data analysis, supply chain, ERP**
 
 - 📫 How to reach me **harin236@gmail.com**
 
