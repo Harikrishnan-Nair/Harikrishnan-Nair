@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Adventure works sales dashboard**
 
-- 🌱 I’m currently learning **PowerBI, Python, SQL, Machine learning**
+- 🌱 I’m currently learning **PowerBI, Python, SQL, Data warehousing Machine learning**
 
 - 👯 I’m looking to collaborate on **Data analysis/Data visualization projects**
 
