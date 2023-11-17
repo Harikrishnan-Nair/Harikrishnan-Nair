@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data analysis/Data visualization projects**
 
-- 🤝 I’m looking for help with **Python, SQL**
+- 🤝 I’m looking for help with **Python, SQL, PowerBI**
 
 - 💬 Ask me abouts **Power BI, SQL, Data analysis, supply chain, ERP**
 
